@@ -5,7 +5,7 @@ lab4 dict and tuple
 #3.1
 my_dict = {
             'name':'Tom', 
-            'id':123
+            'id': 1,2,3
           }
           
 print(my_dict)
